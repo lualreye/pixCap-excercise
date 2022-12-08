@@ -1,0 +1,19 @@
+{
+  "name": "interviews",
+  "version": "1.0.0",
+  "description": "first technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "oop"
+  ],
+  "author": "lualreye@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
